@@ -1,0 +1,7 @@
+Contruido con Spring Boot con thymeleaf, Mysql, Xampp.
+Diseño de la base de datos con Workbench.
+
+Esta con el patron de diseño MVC.
+Adjunto el script de la base de datos.
+
+Vi una serie de tutoriales, había empezado a desarrollarlo con JSP y servlet pero en el camino tuve muchos errores y decidí probar con Spring Boot y el desarrollo es menos complejo, es la primera vez que trabajo con spring y me parece un framework de java muy potente.
